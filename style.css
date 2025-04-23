@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(33, 28, 132);
+    color: rgb(220, 220, 255);
+
+    padding: 1.5em;
+}
+
+table, th, td {
+    border: 0.1em solid;
+    border-collapse: collapse;
+    padding: 0.25em;
+    background-color: rgb(77, 85, 204);
+    text-align: center;
+}
+
+
+.book-image{
+    width: 30%;
+    height: 30%;
+}
+
+.book-botton{
+    padding: 0.8em;
+    border: none;
+    background-color: rgb(122, 115, 209);
+    border-radius: 0.5em;
+}
+
+.book-botton:hover{
+    background-color: rgb(74, 13, 100);
+}
+
+.book-link{
+    color: rgb(220, 220, 255);
+    text-decoration:none;
+}
